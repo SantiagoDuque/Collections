@@ -11,9 +11,9 @@
 ### System.Collections.Generic
 
 > * Contain the **appropriate** data type
-> * Reduce boxin and unboxing overhead
+> * Reduce boxing and unboxing overhead
 
-### Collections Interfaces
+### Collections Interfacesstore.
 > System.Collections
 > * IEnumerator
 > * IEnumerable
